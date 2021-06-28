@@ -1,0 +1,7 @@
+wheel
+scikit-learn
+pandas
+plotly
+cufflinks
+chart-studio
+benford-py

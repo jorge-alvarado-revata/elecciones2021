@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "elecciones2021",
+			"path": "."
+		}
+	],
+    "settings": {
+        "git.ignoreLimitWarning": true
+    }
+}
